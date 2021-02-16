@@ -2,3 +2,7 @@ footer ,main{
     color:blue;
     display: block;
 }
+
+logo{
+    position: 0px;
+}
